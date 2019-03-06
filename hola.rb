@@ -1,2 +1,2 @@
 # primer comentario
-puts "Hola mundo cruel"
+puts "Hola mundo chillon"
