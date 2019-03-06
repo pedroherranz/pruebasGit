@@ -1,2 +1,2 @@
-# CambioN3
-puts "Hola Git"
+# Corto y CambioN
+puts "Adios"
