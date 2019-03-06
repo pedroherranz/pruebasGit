@@ -1,2 +1,2 @@
-# primer comentario
-puts "Hola mundo disco"
+# sigo intentandolo
+puts "Hola Lola"
